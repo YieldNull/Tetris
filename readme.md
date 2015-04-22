@@ -32,3 +32,6 @@ Activity 使用的界面
 
 >####LoadView
 >游戏启动界面
+
+###效果图
+![Tetris.png](Tetris.png)
